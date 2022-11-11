@@ -1,5 +1,9 @@
 module.exports = {
+    /* api: {
+         baseURL: "http://localhost:4000"
+     }*/
+
     api: {
-        baseURL: "http://localhost:4000"
+        baseURL: "https://api-medicina.herokuapp.com/"
     }
 }
