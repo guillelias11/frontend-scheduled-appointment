@@ -6,8 +6,8 @@ import mensajeConfirmacion from '../../helpers/mensajes.js';
 const CrearCuenta = () => {
 
     const [usuario, setUsuario] = useState({
-        idrol: '6355d296b54836ecf24de4c8',
-        idespecialidad: '63698a63b042ee2dfe1d7977',
+        idrol: '636eaa05092ca9229aff7447',
+        idespecialidad: '636eaa97092ca9229aff744b',
         nombres: '',
         celular: '',
         correo: '',
